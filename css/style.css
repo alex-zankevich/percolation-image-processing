@@ -1,0 +1,15 @@
+.visualization {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+canvas {
+	margin: 5px;
+}
+
+.plot {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
